@@ -1,17 +1,11 @@
-# Hide collector scripts
+
 collecter.py
 github_collector.py
 auto_update.py
 update.bat
 
-# Hide GitHub workflow (but keep it working)
 .github/
 
-# Optional: Hide other files you don't want public
 *.log
 __pycache__/
 .env
-
-# Keep only the data files visible:
-# donations.json - will be visible
-# total_raised.json - will be visible
