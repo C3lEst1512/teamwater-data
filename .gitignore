@@ -1,6 +1,8 @@
 # Hide collector scripts
 collecter.py
 github_collector.py
+auto_update.py
+update.bat
 
 # Hide GitHub workflow (but keep it working)
 .github/
