@@ -112665,5 +112665,35 @@
         "collected_at": 1754202958389
       }
     ]
+  },
+  {
+    "collected_at": 1754204645704,
+    "collection_time": "2025-08-03T14:04:05.704000",
+    "donations": [
+      {
+        "id": "e4528343-7aa1-43b8-9d33-daa9288db2a2",
+        "amount": 25.0,
+        "completed_at": "2025-08-03T07:04:00.227475Z",
+        "donor_name": "Anonymous",
+        "donor_comment": null,
+        "currency": "USD",
+        "collected_at": 1754204645704
+      }
+    ]
+  },
+  {
+    "collected_at": 1754205871683,
+    "collection_time": "2025-08-03T14:24:31.683000",
+    "donations": [
+      {
+        "id": "75519dba-a98c-4760-977e-f3622513b293",
+        "amount": 100.0,
+        "completed_at": "2025-08-03T07:24:25.665436Z",
+        "donor_name": "Anonymous",
+        "donor_comment": null,
+        "currency": "USD",
+        "collected_at": 1754205871683
+      }
+    ]
   }
 ]
