@@ -1,6 +1,6 @@
 {
   "donation_count": 100,
-  "total_raised": 6519637.42,
+  "total_raised": 6519700.42,
   "collected_ids": [
     "cc33d30e-b435-4370-b1ab-982b9ce6d748",
     "42aabe0f-1642-4530-955c-ddf299c40dcc",
@@ -22,6 +22,7 @@
     "ddacac30-f7a1-47c8-88e8-671236b1423e",
     "19d4547e-2402-4f0c-a9fa-cb781a9f26b9",
     "cefc6f7c-de5f-4d65-8dfe-e4c0b1c7364a",
+    "a07c3df5-7794-4551-802c-8d67eaf838f6",
     "87a1bb5d-705a-4b6f-b4bf-9f37ccd9d420",
     "4e20fc6f-2ade-4223-a491-6a48f9b003d0",
     "ea3bf287-35e4-46ef-b1c3-129e195dccef",
@@ -69,6 +70,7 @@
     "e7d88513-8aae-4c1e-acad-b27780294385",
     "3c0c380c-6a9b-41d1-9218-e30cf2d66476",
     "dd1555d5-37f6-4b3e-ab24-4cb9d9c7aa22",
+    "54ea2c4a-2a7f-4f4a-9cfd-64213adb8fa6",
     "f0022f55-b2a5-4ad6-a35c-e956d321044c",
     "68f4dbc7-111f-445e-9628-7c8615b46721",
     "b1b57bd5-b100-442b-9432-c0c0ddc4466a",
@@ -259,6 +261,7 @@
     "6257b4e9-7085-4830-a7e4-ea903cb36678",
     "2f1d5f79-595c-4cf0-8639-73d5a5c2529f",
     "6a78dabe-2474-4656-897a-d02d9cba4077",
+    "f937acc5-7c51-4155-b8b2-afb992f0227e",
     "2ad596ad-8e6c-46a2-90ef-6882567cfb00",
     "da25b88a-2548-4987-8ae6-8d023a7523eb",
     "970cd935-d0f9-4a95-b9ac-ce5ba21836d3",
@@ -282,6 +285,7 @@
     "12ec5fdc-4e68-415a-8d0f-640ead7a98bf",
     "cf27d014-9466-4d1a-9384-31f62cd592b7",
     "908669a6-d09c-482f-8dd6-44f07cf157f6",
+    "efa6eec9-4af1-40df-a536-19ae66372236",
     "2eab2846-101d-4549-ad5b-cb2573a1f5a5",
     "05847541-cf7e-4010-9853-9d3af1fd7834",
     "4dce39e3-0d37-43e3-ae83-ea1e6445d49d",
@@ -313,9 +317,11 @@
     "c5dca3ce-6a6b-435d-98cd-07c354ae0b06",
     "22d2607f-8518-41b7-af0f-4ad2fe9bc086",
     "935a64c2-e370-49c8-9909-c9a1ed15f67c",
+    "ab8c96df-3050-4bff-9236-97e48631d6ef",
     "7339c10d-37bd-49d3-bece-f6b25da1cc51",
     "be48b686-f189-4d05-b9d8-cb7dd7effdde",
     "62e1689b-6a48-471a-b7cd-ecc68f46ef64",
+    "ef1c17c5-dbf4-406f-9d79-048ea36570f3",
     "3c2910c7-0b73-4e18-9937-16694d994d22",
     "c6bbb06b-db7c-458f-89b4-c557e91abf97",
     "6e63ecc4-80c4-43d9-89d6-d58d335aa5c5",
@@ -548,5 +554,5 @@
     "e11b0233-679b-4e49-bae8-3bb999b0ac05",
     "cb52b2d4-4be2-40e3-83ac-bb5c65007487"
   ],
-  "last_updated": 1754211382235
+  "last_updated": 1754211484817
 }
