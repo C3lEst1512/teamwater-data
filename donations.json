@@ -1,5 +1,3245 @@
 [
   {
+    "id": "91ad9c17-87b2-4f59-8571-9ae33ee3c6cb",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:55:12.404402Z",
+    "donor_name": "Diegofcm",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "8d9a276e-2652-43fa-bc6e-5d0c7e76d99d",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:55:02.846762Z",
+    "donor_name": "PLUG ME",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "5381027a-f9e8-4399-bf72-c0fa8d5e90df",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:54:52.986119Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "5925765f-5a65-492a-99a7-9eca19d3aff7",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:54:42.378630Z",
+    "donor_name": "Maurits",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "ad2dda90-8d13-42d1-8e61-f2e51ff67ea4",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:54:20.244190Z",
+    "donor_name": "Logan",
+    "donor_comment": "God bless love this",
+    "currency": "USD"
+  },
+  {
+    "id": "48eefab9-12c4-4a76-b142-a6eb18fb65d1",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:54:11.109796Z",
+    "donor_name": "Kat",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "50ecac09-8082-4d4a-b458-520330dabf7c",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:54:09.809166Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "ebc8da22-a944-48f0-8901-5bbe92900d36",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:54:04.773470Z",
+    "donor_name": "Joel Koch",
+    "donor_comment": "Mein kleiner aber feiner Beitrag",
+    "currency": "USD"
+  },
+  {
+    "id": "64384802-73c8-4b54-9f81-97564afe297d",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:54:02.222864Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "83fe8a22-6cee-4eee-840a-aa8e91612a7e",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:53:56.130406Z",
+    "donor_name": "MRW",
+    "donor_comment": "May Allah make it easy for them. Great JOB!",
+    "currency": "USD"
+  },
+  {
+    "id": "ca583b02-b479-4bfc-8165-14beb0560352",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:53:53.206216Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "fa2b8eae-7410-425b-97db-75e87892cbf6",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:53:51.719650Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "7c85de17-044c-4db3-ac84-f9859036f279",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:53:34.514530Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "5ac9b0db-2083-4fb0-a2de-2332c0e9ed21",
+    "amount": 50.0,
+    "completed_at": "2025-08-03T00:53:29.194457Z",
+    "donor_name": "WaterFan12",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "7ed56c5d-b73e-4199-beb8-adc0c61005b7",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:53:08.069505Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "494d9c07-ed17-4d8c-8383-64a4193a6167",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:52:08.430236Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "All we need is LOVE",
+    "currency": "USD"
+  },
+  {
+    "id": "a448ca67-0e57-4354-b964-87cf631183df",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:52:01.644335Z",
+    "donor_name": "tori lampley",
+    "donor_comment": "everyone should have access to safe water!",
+    "currency": "USD"
+  },
+  {
+    "id": "1df2ad23-dc8c-4fa5-860a-bd3f982a0373",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:51:47.666310Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "Kucak dolusu sevgiler",
+    "currency": "USD"
+  },
+  {
+    "id": "0e8075f2-eb7f-42c1-a798-b22a81dd3edd",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:51:41.642739Z",
+    "donor_name": "Juan Carlos",
+    "donor_comment": "#loveteamwater",
+    "currency": "USD"
+  },
+  {
+    "id": "15870e5a-ccec-4cfc-bc88-4ec785d521f1",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:51:41.462939Z",
+    "donor_name": "Losoya Family",
+    "donor_comment": "Such a beautiful thing that these influencers are doing God bless \ud83d\ude4f\ud83d\ude4f",
+    "currency": "USD"
+  },
+  {
+    "id": "cefa063a-80a8-4b40-8dd3-0413438266a6",
+    "amount": 1.11,
+    "completed_at": "2025-08-03T00:51:06.999637Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "34ed00f1-ac99-41e9-9ced-e1a8a06461f1",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:51:02.258314Z",
+    "donor_name": "Crazy",
+    "donor_comment": "Yayayayayaya",
+    "currency": "USD"
+  },
+  {
+    "id": "6942f427-2e82-49dd-ae19-fb905ad7cb68",
+    "amount": 25.0,
+    "completed_at": "2025-08-03T00:50:43.748661Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "7d13c5b9-bc7d-4724-873f-e1144f45fd1a",
+    "amount": 2.0,
+    "completed_at": "2025-08-03T00:50:33.358256Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "6246626c-412d-4a12-8cbe-671040c13865",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:50:29.772320Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "40ddb270-5371-4282-ad9f-6fc3947917a6",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:50:27.116140Z",
+    "donor_name": "wouldnt you like to know water boi?",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "45e55d97-5566-443b-871a-6908f9429a6c",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:50:15.771794Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "484623b1-4db3-4ecb-9f88-356aa7978bfa",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:50:10.646557Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "cc4ffaf2-bc20-4466-932c-97b173bd49b5",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:49:55.830518Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "dab5cac5-8b74-4316-8b71-9445b0bc59c8",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:49:38.676037Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "abcba4b4-eff3-442f-8501-e4981aead6d8",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:49:12.445731Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "8f6b8e1f-9bc1-4b85-896c-03104f35a39f",
+    "amount": 5.55,
+    "completed_at": "2025-08-03T00:48:30.512815Z",
+    "donor_name": "Tom\u00e1s Ventura",
+    "donor_comment": "com muito amor de tom\u00e1s ventura\u2764\ufe0f\u2764\ufe0f",
+    "currency": "USD"
+  },
+  {
+    "id": "1b34bd17-851e-4562-9803-f723a0888984",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:48:29.156237Z",
+    "donor_name": "Ethan C",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "7263cb60-736d-40f1-83ce-0cc28d472a0c",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:47:50.609837Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "35f4e864-c4df-48a5-ab32-f4eeb7b76346",
+    "amount": 40.0,
+    "completed_at": "2025-08-03T00:47:46.895341Z",
+    "donor_name": "Fake Atharv",
+    "donor_comment": "Water is my favorite drink",
+    "currency": "USD"
+  },
+  {
+    "id": "c60de580-84d9-47c0-a236-766bfc0ab9ea",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:47:40.620564Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "Saludos desde Chile y gracias Mr Beast ... Suerte",
+    "currency": "USD"
+  },
+  {
+    "id": "2864afaa-8aaf-4005-b928-010ed957a316",
+    "amount": 25.0,
+    "completed_at": "2025-08-03T00:47:39.262809Z",
+    "donor_name": "DJ",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "33802bcf-a0ce-4866-a3ba-0ebb252f13b0",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:47:27.124284Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "\u0423\u0434\u0430\u0447\u0438 \u0438\u0449 \u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0438",
+    "currency": "USD"
+  },
+  {
+    "id": "c7a12c3d-e902-4cde-a1c2-9db86c7c979d",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:47:11.318529Z",
+    "donor_name": "Robbie Lugos",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "8d8cd23c-25c8-4adf-9ce8-2508f1136574",
+    "amount": 107670.08,
+    "completed_at": "2025-08-03T00:46:35.343632Z",
+    "donor_name": "FaZe Banks",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "3aab70d9-6b6f-4322-ab2e-df6bc24ed192",
+    "amount": 5.03,
+    "completed_at": "2025-08-03T00:46:35.152181Z",
+    "donor_name": "Alireza",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "d41e3071-2660-4db0-b248-292618dc8d61",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:46:33.807662Z",
+    "donor_name": "Miles",
+    "donor_comment": "I love water",
+    "currency": "USD"
+  },
+  {
+    "id": "d1c77902-5850-4223-879e-01910a8018e4",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:46:30.736604Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "32e3a91f-93b7-492e-baf9-d28685f4b6a8",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:46:03.755705Z",
+    "donor_name": "plug is mid",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "ad0c00ab-9084-4fd6-82ef-4686d04e32da",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:46:01.136753Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "cf2c3ba7-672e-45bf-a08a-5e96165caba7",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:45:53.822421Z",
+    "donor_name": "Hindanger",
+    "donor_comment": "Shoutout to the people getting free water in Nepal!",
+    "currency": "USD"
+  },
+  {
+    "id": "f590a1ad-3cd8-4a73-990e-68ba82314354",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:45:42.711297Z",
+    "donor_name": "Emily",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "9465a776-a769-4dfc-84f1-6328a6443e40",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:45:14.239937Z",
+    "donor_name": "Andrew Wallace",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "4781e87c-35c0-4edc-9817-ffad15662121",
+    "amount": 3.0,
+    "completed_at": "2025-08-03T00:45:06.732860Z",
+    "donor_name": "Luiz",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "98f24ff3-9df6-41ce-8d10-5ca9d7607f9d",
+    "amount": 3.0,
+    "completed_at": "2025-08-03T00:44:57.105576Z",
+    "donor_name": "George",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "47c9c992-9b8b-42b9-a906-a96e059ceff9",
+    "amount": 100.0,
+    "completed_at": "2025-08-03T00:44:36.956973Z",
+    "donor_name": "Anke",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "f98a4d28-7b16-4658-9416-f7c7074bd606",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:44:34.251887Z",
+    "donor_name": "Nicol\u00e1s Valls",
+    "donor_comment": "You rock!",
+    "currency": "USD"
+  },
+  {
+    "id": "371c288e-7b3d-4022-8b57-cafc4c099ebc",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:44:31.139527Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "1a7fe167-ccb7-4857-9f06-e20b51e5eace",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:44:27.441738Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "88fc70ca-73aa-460d-ab37-acd09af887ac",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:44:18.997437Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "e1614c76-61f7-40b5-9019-6404a67fc58b",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:44:09.858194Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "596df858-876b-4d52-aac0-cac649bc2ca3",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:43:43.819257Z",
+    "donor_name": "Gavin Hess",
+    "donor_comment": "I'm a 12 year old kid and after I had seen this and I want to help this plant by donating keep what your doing mrbeast!",
+    "currency": "USD"
+  },
+  {
+    "id": "8c624f5a-efe9-4ff1-bca8-2650964d0838",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:43:21.860666Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "a311b5a4-0f92-49bf-8c41-1144f2333d8e",
+    "amount": 17.0,
+    "completed_at": "2025-08-03T00:43:19.475904Z",
+    "donor_name": "Annabel",
+    "donor_comment": "My parents owe but me money  , but I'm donating it instead.",
+    "currency": "USD"
+  },
+  {
+    "id": "87929543-d352-498b-a749-db7aa03ed6ae",
+    "amount": 50.0,
+    "completed_at": "2025-08-03T00:43:19.455126Z",
+    "donor_name": "Liam",
+    "donor_comment": "Sending you water from the Arizona desert.",
+    "currency": "USD"
+  },
+  {
+    "id": "01dce072-f293-46ea-8507-6f9f754e5a8f",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:43:09.095271Z",
+    "donor_name": "Andrea Bonilla",
+    "donor_comment": "Thanks for what you\u2019re doing for the people",
+    "currency": "USD"
+  },
+  {
+    "id": "b8e4032d-0c0d-4e4e-93ce-f47d95e8e96c",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:42:47.263430Z",
+    "donor_name": "Nicolas Rodriguez Daza",
+    "donor_comment": "EL mejor Mr Beast",
+    "currency": "USD"
+  },
+  {
+    "id": "c62ba13b-59ff-4d92-be87-00508f874218",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:42:40.394133Z",
+    "donor_name": "Gyro",
+    "donor_comment": "Day 2 of #TeamWater",
+    "currency": "USD"
+  },
+  {
+    "id": "41d00bb2-e7d3-46b1-89d2-e4ecbe68b2d1",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:42:22.509138Z",
+    "donor_name": "\u0130bo_nisanw",
+    "donor_comment": "\u201cI gave some water, because you always exist to 'give more'.\u201d",
+    "currency": "USD"
+  },
+  {
+    "id": "e7f01861-033d-4ec0-8b7e-4c6e6a3c0794",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:42:05.690513Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "6fd55471-60de-4890-b3ed-5da2432e2d76",
+    "amount": 25.0,
+    "completed_at": "2025-08-03T00:41:32.857072Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "430bf264-c0af-4fc5-8a35-71a974d8e3eb",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:41:29.793063Z",
+    "donor_name": "123",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "fab55220-ba8a-4ed1-87f6-278e1e9d2148",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:41:28.994016Z",
+    "donor_name": "Paul W",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "50bce57c-c649-4972-a868-4964795ecec0",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:41:28.578749Z",
+    "donor_name": "23dereek",
+    "donor_comment": "Hi",
+    "currency": "USD"
+  },
+  {
+    "id": "5686fa65-8e15-459c-b1f0-9ea2be3bd294",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:41:27.453355Z",
+    "donor_name": "Bennett Edwards",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "47977cab-4007-41fc-9b40-97e01a2b80e8",
+    "amount": 25.0,
+    "completed_at": "2025-08-03T00:41:24.970871Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "ebcab96b-a258-479b-8451-652a38cec455",
+    "amount": 15.0,
+    "completed_at": "2025-08-03T00:41:21.679858Z",
+    "donor_name": "Keaton Monger",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "18979bf2-5970-4b84-b71f-d8dccaefdc9e",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:41:16.471660Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "Thanks for your big project!!!",
+    "currency": "USD"
+  },
+  {
+    "id": "f7694051-452f-4bdf-921d-5cb1a017f7df",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:41:16.117807Z",
+    "donor_name": "Mohamed alriyashi",
+    "donor_comment": "May Allah help these kids with more than just clean water",
+    "currency": "USD"
+  },
+  {
+    "id": "54f5807c-3934-405b-baa7-97eb66d6c4cc",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:41:08.147445Z",
+    "donor_name": "Ken",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "7405bafe-8018-4e0e-be61-804fb2840744",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:40:58.945540Z",
+    "donor_name": "Daniel",
+    "donor_comment": "You re the best MrBeast!",
+    "currency": "USD"
+  },
+  {
+    "id": "df19f84f-65ba-42f2-bcbd-f25feca8fe2c",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:40:58.925871Z",
+    "donor_name": "Ryker Bimm",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "1713d604-dd09-4a84-bcc9-574244f3b988",
+    "amount": 4.2,
+    "completed_at": "2025-08-03T00:40:43.962993Z",
+    "donor_name": "Papi chulooo",
+    "donor_comment": "You forgot to renew your car extended warranty",
+    "currency": "USD"
+  },
+  {
+    "id": "88ead291-b7af-464d-b016-282e4cb55851",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:40:41.181433Z",
+    "donor_name": "Yasin sayid",
+    "donor_comment": "1 year one life",
+    "currency": "USD"
+  },
+  {
+    "id": "83c37aa8-89a7-4ea4-a067-bf3dd0e24e7b",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:40:36.574299Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "ab62c000-3767-40c1-a3ce-60f169595580",
+    "amount": 25.0,
+    "completed_at": "2025-08-03T00:40:14.091256Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "3434ddbc-a5f4-4377-99c2-f1971bafc61a",
+    "amount": 71.0,
+    "completed_at": "2025-08-03T00:40:04.412128Z",
+    "donor_name": "Weber Family",
+    "donor_comment": "Alex, Patrick and money collected by them from the Weber Family",
+    "currency": "USD"
+  },
+  {
+    "id": "5a81aef3-2709-448f-a677-dc52b2b311ad",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:39:58.195604Z",
+    "donor_name": "Kyle",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "88c638bb-3d1d-4de1-82c6-44a55a6a9676",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:39:42.058153Z",
+    "donor_name": "srs",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "c1db9dae-842d-48f3-9d37-b0cd858cd06e",
+    "amount": 50.0,
+    "completed_at": "2025-08-03T00:39:39.158418Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "d6260413-58c8-41b7-9901-9f0ee73154dc",
+    "amount": 100.0,
+    "completed_at": "2025-08-03T00:39:33.851759Z",
+    "donor_name": "Diego",
+    "donor_comment": "Thanks for doing this! \u2764\ufe0f",
+    "currency": "USD"
+  },
+  {
+    "id": "7b0bd66e-818b-4ffe-92bb-e4ebc5fe0b22",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:38:52.092468Z",
+    "donor_name": "Monica",
+    "donor_comment": "Thank you for this amazing work for all these communities.",
+    "currency": "USD"
+  },
+  {
+    "id": "1cc644b5-321a-4727-8ca6-a3f97cb8ab17",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:38:51.757426Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "b1daefc5-deec-41ca-a737-79b66b6818a4",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:38:50.874092Z",
+    "donor_name": "Mr_Wert9895",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "bb931d4b-915c-49b2-87cb-2b97c287d2c6",
+    "amount": 3.0,
+    "completed_at": "2025-08-03T00:38:50.683195Z",
+    "donor_name": "Bipun",
+    "donor_comment": "Hope this helps \ud83d\ude18\ud83d\ude0a,and a huge thank you to everyone who\u2019s involved in this and love you guys  and your content",
+    "currency": "USD"
+  },
+  {
+    "id": "6f5ae45b-c57f-498e-82a8-3d884580373f",
+    "amount": 50.0,
+    "completed_at": "2025-08-03T00:38:48.918520Z",
+    "donor_name": "Yangchen lhamo",
+    "donor_comment": "Mr Beast you are the best",
+    "currency": "USD"
+  },
+  {
+    "id": "a4b4ecac-a943-4707-be5b-30c931d36b5d",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:38:46.864769Z",
+    "donor_name": "Vanjo",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "bb927e5c-21e3-4123-a66e-c0651ffd5fa2",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:38:21.647022Z",
+    "donor_name": "Cathy Stevenson",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "7e16a0bf-cb4a-4c24-b895-df948a87db28",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:38:15.394721Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "8a7934e3-2221-484f-8c6a-4a25d2eb4917",
+    "amount": 1000.0,
+    "completed_at": "2025-08-03T00:38:13.196915Z",
+    "donor_name": "Leon & Vonnie Zupan",
+    "donor_comment": "The gift of life itself.",
+    "currency": "USD"
+  },
+  {
+    "id": "8334807b-8699-4011-bd9b-c62c4750b17c",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:38:09.933634Z",
+    "donor_name": "Freddie",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "e2743064-960b-44ef-b767-f33ab65a5d1a",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:38:03.716732Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "Lol",
+    "currency": "USD"
+  },
+  {
+    "id": "2f37faf9-7065-47a3-96ed-daa2a4774c22",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:37:52.604314Z",
+    "donor_name": "Nancy Arroyo",
+    "donor_comment": "Thank you for bringing clean water to so many in need",
+    "currency": "USD"
+  },
+  {
+    "id": "db991148-2991-4f17-a8a5-617a5a2233e0",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:37:47.451271Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "48686445-b924-481f-bc20-f25e22062ea9",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:37:41.267870Z",
+    "donor_name": "Thomas Gauthier",
+    "donor_comment": "Everyone deserves water",
+    "currency": "USD"
+  },
+  {
+    "id": "8e86cc2d-2a86-47c9-b363-565bfe6a1c12",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:37:08.772657Z",
+    "donor_name": "Oscar",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "5a8575ab-23c2-4196-ba82-89943e0bdeaf",
+    "amount": 25.0,
+    "completed_at": "2025-08-03T00:36:59.039428Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "f54bc4e5-287b-431f-a46b-08f0b15ba665",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:36:55.179045Z",
+    "donor_name": "Ed",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "443ebcdd-1bfe-4e0c-9bc8-fe77c41020e1",
+    "amount": 80.0,
+    "completed_at": "2025-08-03T00:36:51.247957Z",
+    "donor_name": "McAndrew",
+    "donor_comment": "Clean water!!",
+    "currency": "USD"
+  },
+  {
+    "id": "61c4e7dd-e780-4029-92fb-7f0afaf67be7",
+    "amount": 3.0,
+    "completed_at": "2025-08-03T00:36:50.227821Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "suerte!!",
+    "currency": "USD"
+  },
+  {
+    "id": "8cafe112-fe3b-4d12-aa21-ed6d6ada38a3",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:36:26.244169Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "a62ff71d-d243-423f-96ed-b0804aeca5af",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:36:22.417381Z",
+    "donor_name": "Yamil",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "13a3075b-602e-4b2e-a7b9-233a0d3f2367",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:36:22.400373Z",
+    "donor_name": "Zoe Cooper Reed",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "4399cd4c-5185-4b19-88ff-cfd2f6606403",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:36:21.914689Z",
+    "donor_name": "Allen-Tri Nguyen",
+    "donor_comment": "This is for people who need fresh water to stay healthy.",
+    "currency": "USD"
+  },
+  {
+    "id": "a901e306-c47d-4cfa-9eb0-bcd7786c508d",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:36:20.690684Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "de52895c-5039-4ce2-ba91-cdd4160b3af8",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:36:20.412546Z",
+    "donor_name": "Em Griff",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "11e9b91c-365d-46d0-b5ac-f74229ea32b4",
+    "amount": 100.0,
+    "completed_at": "2025-08-03T00:36:19.003509Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "b1b8b89a-d455-4291-a5f2-fa1a70408e73",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:36:09.561512Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "8958eca0-0843-4bc6-a4cf-0ffc0fc01cad",
+    "amount": 25.0,
+    "completed_at": "2025-08-03T00:36:08.141036Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "dcc10242-260e-4084-8213-316c3577a957",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:36:02.264559Z",
+    "donor_name": "Dulce",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "5d960b5d-0987-41a4-95ee-55de879c39eb",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:36:02.166135Z",
+    "donor_name": "Jorge de leon",
+    "donor_comment": "Un gesto muy bonito ojal\u00e1 muchas personas de todo el mundo se una ayudar a quien no tiene.",
+    "currency": "USD"
+  },
+  {
+    "id": "29148a48-fe02-49fc-a583-7d6bd28a4096",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:36:00.887972Z",
+    "donor_name": "Anonymous Neuron",
+    "donor_comment": "let's go",
+    "currency": "USD"
+  },
+  {
+    "id": "18697e78-11cf-4254-a125-60c3766fa967",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:35:14.225986Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "e9d37187-f43a-469e-a1e1-51238073d437",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:35:07.712850Z",
+    "donor_name": "YeyomanMX",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "749ee142-45a1-4d5d-855e-4bf95d116221",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:35:03.836490Z",
+    "donor_name": "Ben",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "5484a57b-212d-4c26-b0a3-a9538a03fd4c",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:34:55.939374Z",
+    "donor_name": "Ethan",
+    "donor_comment": "Wish the best!",
+    "currency": "USD"
+  },
+  {
+    "id": "eebf3ca6-671c-4d74-9109-8263812e9675",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:34:16.133970Z",
+    "donor_name": "Kawaii",
+    "donor_comment": "I love water and mr brest",
+    "currency": "USD"
+  },
+  {
+    "id": "d81549a5-935e-4300-a25d-00abeadcbdd4",
+    "amount": 2.0,
+    "completed_at": "2025-08-03T00:34:02.644271Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "df2b9f46-d5e1-4da0-b801-04682d2074bf",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:33:58.922713Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "db8b4a6d-6389-4548-b01b-8bad79cc007e",
+    "amount": 100.0,
+    "completed_at": "2025-08-03T00:33:56.860635Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "ccf0881a-1266-4981-973a-6cd77edc24a6",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:33:53.692097Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "e4c0baf5-8d89-4828-932a-8f6f58237f8f",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:33:43.276873Z",
+    "donor_name": "Kiara",
+    "donor_comment": "Gr\u00fc\u00dfe aus Deutschland",
+    "currency": "USD"
+  },
+  {
+    "id": "2ab083a5-53d2-42ef-870c-24260d92b898",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:33:39.369871Z",
+    "donor_name": "Dungeons_and_Drafts",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "0d1d82ac-a484-4906-9c64-d582f075033f",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:33:31.609947Z",
+    "donor_name": "FROM MOROCCO",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "bb8fd274-d79b-433c-bc36-dde95703f91a",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:33:23.316741Z",
+    "donor_name": "Yoo Hyun Choi",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "909114a8-6d63-4b69-ba6a-eb6ec4a50223",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:32:57.039933Z",
+    "donor_name": "Mike Kindgren",
+    "donor_comment": "Tasting History with Max Miller",
+    "currency": "USD"
+  },
+  {
+    "id": "d13650fc-e314-4f77-ad9d-0ea7283bed0b",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:32:56.345939Z",
+    "donor_name": "Olive",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "1720f67d-2009-4b7f-869d-e2754dc9514a",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:32:50.621044Z",
+    "donor_name": "Jayden p",
+    "donor_comment": "I know it\u2019s not a lot but I wanna help the people who need it \ud83d\udc99\ud83d\udc99",
+    "currency": "USD"
+  },
+  {
+    "id": "cbb7f9e8-98ad-4cb4-8a72-d77f1711362a",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:32:37.760958Z",
+    "donor_name": "Lucian",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "59c9d8f5-21d0-497f-83c0-3ff9c17b1605",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:32:30.963213Z",
+    "donor_name": "Matthew Marcus",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "c0ff123e-2155-435d-b725-dba05ba42b0f",
+    "amount": 2.0,
+    "completed_at": "2025-08-03T00:32:18.555496Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "7a9833c9-65b5-4ac4-96f3-aab13b40e064",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:32:16.051610Z",
+    "donor_name": "noli",
+    "donor_comment": "great cause",
+    "currency": "USD"
+  },
+  {
+    "id": "f003a1d4-d0d6-4fba-aa73-a3ff38371686",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:32:15.662559Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "a7ab46e3-caa2-47f2-a0ca-7fe559d9039e",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:31:41.416932Z",
+    "donor_name": "Zaddychris",
+    "donor_comment": "Water is for everyone not just developed countries",
+    "currency": "USD"
+  },
+  {
+    "id": "3b7e0f14-d70a-433e-b3bf-be2ef19ceb95",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:31:33.712825Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "792fd680-16a5-4e05-890c-a41f960377dd",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:31:06.005363Z",
+    "donor_name": "plex",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "35908b47-fac9-43c8-af19-264b98ed6a58",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:31:00.601241Z",
+    "donor_name": "Astoli",
+    "donor_comment": "W",
+    "currency": "USD"
+  },
+  {
+    "id": "c99d50dd-84a9-44b4-95d7-254cd833956d",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:30:53.001474Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "6d857f82-3e44-410c-9f69-42e214cabd26",
+    "amount": 30.0,
+    "completed_at": "2025-08-03T00:30:25.408203Z",
+    "donor_name": "Maur\u00edcio Bortoluzzo",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "d34ae5bc-113a-46b7-ac02-6ac1ad31639d",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:29:58.923240Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "2f292f5e-54cb-495e-a407-fce620dd22e4",
+    "amount": 0.99,
+    "completed_at": "2025-08-03T00:29:55.374467Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "3426e6f6-4b70-46d5-bbcc-8cb6296c2e71",
+    "amount": 25.0,
+    "completed_at": "2025-08-03T00:29:53.530416Z",
+    "donor_name": "Asurgo",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "bebe77d9-58da-4903-b4ad-9b0a755498ff",
+    "amount": 15.0,
+    "completed_at": "2025-08-03T00:29:40.540049Z",
+    "donor_name": "Ben Jacobson",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "e79e4a9b-2360-41bc-a59b-ad8942494203",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:29:37.699704Z",
+    "donor_name": "snowy-dream-690",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "bae94237-f861-461a-8b8d-024510383d0c",
+    "amount": 100.0,
+    "completed_at": "2025-08-03T00:29:31.407362Z",
+    "donor_name": "The Meyers",
+    "donor_comment": "What a great cause",
+    "currency": "USD"
+  },
+  {
+    "id": "c194807e-7a22-400d-a647-2738f7024a36",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:29:25.856102Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "da707027-e93d-4632-8609-78aa26fc9262",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:29:21.227907Z",
+    "donor_name": "Cait",
+    "donor_comment": "thanks AndyCooks for sharing",
+    "currency": "USD"
+  },
+  {
+    "id": "922d51db-f7b5-46ef-a971-e59a65b25fae",
+    "amount": 100.0,
+    "completed_at": "2025-08-03T00:29:09.771575Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "\u200e",
+    "currency": "USD"
+  },
+  {
+    "id": "c0fbaa50-0539-45e9-a6ef-c1ad75203d4e",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:29:00.292807Z",
+    "donor_name": "Team water no.1",
+    "donor_comment": "Help those in need",
+    "currency": "USD"
+  },
+  {
+    "id": "3bad270e-2b21-43b0-9fdc-6b2169efed2d",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:28:55.488773Z",
+    "donor_name": "BossLady",
+    "donor_comment": "Support Team Water!",
+    "currency": "USD"
+  },
+  {
+    "id": "ddd3f4d4-30b2-40e7-9460-4c9c84d5ba5b",
+    "amount": 3.0,
+    "completed_at": "2025-08-03T00:28:42.839666Z",
+    "donor_name": "DN040",
+    "donor_comment": "WATER FORT EVERYONE",
+    "currency": "USD"
+  },
+  {
+    "id": "513d6f86-4c31-4458-88b3-0c7d96650729",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:28:42.086850Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "ce5db4c9-9386-4a94-a6e4-6148bdc5c9dd",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:28:40.524363Z",
+    "donor_name": "Scarlet",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "3e21858f-63fd-412b-9993-41cc51b625c1",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:28:21.487149Z",
+    "donor_name": "Sukanya Dokpikul",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "cb301445-c256-4f73-b44f-3b43194a9fd6",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:28:18.128504Z",
+    "donor_name": "Martin Vargas Nalguitas",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "34640993-e8a9-44ac-abf0-98f19d93f838",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:28:07.541021Z",
+    "donor_name": "Yazu Shrestha",
+    "donor_comment": "One dollar, infinite hope. I\u2019m proud to be part of this.",
+    "currency": "USD"
+  },
+  {
+    "id": "5816c882-a4a3-469c-aa7c-bd48f1ac1893",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:28:06.696024Z",
+    "donor_name": "PLEX",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "90aa3c75-3670-46cb-ab5f-a8eba59f9ad5",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:27:43.788640Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "63d2a344-3050-43e0-b6a2-30719b533eb7",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:27:15.232675Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "e7d52c7f-b408-427f-a5a1-4e4ff906e754",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:27:11.529692Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "e24e1969-9d6e-4608-b082-fab0a0bb7e3c",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:27:09.854908Z",
+    "donor_name": "Johnson Gathers",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "df43e19e-1763-4728-b567-bf19c9ab02b1",
+    "amount": 25.0,
+    "completed_at": "2025-08-03T00:27:06.419885Z",
+    "donor_name": "Jeff Garrett",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "cf1bf1de-d2e0-479e-91e4-52ae74a753ab",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:27:01.846835Z",
+    "donor_name": "olliemac",
+    "donor_comment": "\ud83d\ude42",
+    "currency": "USD"
+  },
+  {
+    "id": "2f078d66-752b-4c4f-afd7-76ad1c367f4b",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:26:55.233575Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "Thanks for all the things that you make possible",
+    "currency": "USD"
+  },
+  {
+    "id": "47f06311-23cb-40a6-ab2b-8f7736cfc6e7",
+    "amount": 2.0,
+    "completed_at": "2025-08-03T00:26:55.191424Z",
+    "donor_name": "Antonio Carter",
+    "donor_comment": "COLDWORLDPTS YouTube page. 1 for all and all for 1 UNITE!!! Also S/O Mr: Beast for showing the next Generation how it\u2019s done!!! \u2705",
+    "currency": "USD"
+  },
+  {
+    "id": "454159e5-dab5-44f8-990a-31dc324e4f56",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:26:53.673490Z",
+    "donor_name": "Richie P",
+    "donor_comment": "Clean water is for all!  Thank you for this Mr Beast :)",
+    "currency": "USD"
+  },
+  {
+    "id": "3ce9d99a-bef6-4220-ae9d-d2f98f847f3a",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:26:47.887492Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "05722dbf-d96e-4727-9ffa-24ad35ecbcc9",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:26:42.733305Z",
+    "donor_name": "PraiseGod7",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "cd074c53-8e0d-4fcd-adf4-bf40c02e5946",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:26:41.732722Z",
+    "donor_name": "Riom Cl\u00e9ment",
+    "donor_comment": "Buvons !",
+    "currency": "USD"
+  },
+  {
+    "id": "b50ba387-60cb-4603-b352-6b10d4266a14",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:26:40.429622Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "fde38f80-ce37-4dba-b695-ecba446ee8b3",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:26:25.498239Z",
+    "donor_name": "CLos702",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "e01ac838-c0dd-4505-8505-b59347e29c11",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:26:19.127416Z",
+    "donor_name": "Res",
+    "donor_comment": "Daje\ud83d\ude18\ud83d\ude18",
+    "currency": "USD"
+  },
+  {
+    "id": "c893fdd1-b53e-4a69-843c-153dd853b7f1",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:26:09.632340Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "3718174d-04c8-4e82-a4d7-92bc077e62fb",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:26:05.358868Z",
+    "donor_name": "Jacob Walsh",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "c89ebedb-91d4-4e8e-ab5d-27bf7c6b42a1",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:26:02.393035Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "7a67c57a-ed2b-43d0-b407-39b953af9e65",
+    "amount": 25.0,
+    "completed_at": "2025-08-03T00:25:53.454112Z",
+    "donor_name": "Harry",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "b023b2d1-d759-4d0f-8cb2-3d0ee368fbcb",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:25:51.035331Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "3bcc704a-210b-4148-801e-07aba7ce912e",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:25:49.305965Z",
+    "donor_name": "Cristian",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "e022a440-ea45-4464-8989-fdaa555501f1",
+    "amount": 3.0,
+    "completed_at": "2025-08-03T00:25:33.917047Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "I\u2019m so happy that there are charity\u2019s that make this so easy",
+    "currency": "USD"
+  },
+  {
+    "id": "9cdf0c3a-5b35-4dd3-b1e8-de829b84c90a",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:25:05.273928Z",
+    "donor_name": "Julian",
+    "donor_comment": "Not much, but 10$ from my heart",
+    "currency": "USD"
+  },
+  {
+    "id": "0d56a797-cb1e-4aff-8ea6-9b704bc6f638",
+    "amount": 136.0,
+    "completed_at": "2025-08-03T00:25:00.151710Z",
+    "donor_name": "Rose Family",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "ff7e1684-6a9f-4951-a705-08a81c8ca3da",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:24:55.964198Z",
+    "donor_name": "xen",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "8301e380-e8f1-402c-a1de-826915c55f73",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:24:50.886917Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "Thank you",
+    "currency": "USD"
+  },
+  {
+    "id": "225e8684-f9c8-49ba-a5f4-bad0e4a2787c",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:24:26.613597Z",
+    "donor_name": "Nika",
+    "donor_comment": "Love the cause",
+    "currency": "USD"
+  },
+  {
+    "id": "ae83d15a-906d-4df0-a45a-069c79ca2d4f",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:24:20.828179Z",
+    "donor_name": "Tommy",
+    "donor_comment": "Not much but I hope it helps.",
+    "currency": "USD"
+  },
+  {
+    "id": "9b3d4900-c9b9-40dc-b217-0265623f1874",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:24:19.855222Z",
+    "donor_name": "Gene K",
+    "donor_comment": "Happiest MurWater!",
+    "currency": "USD"
+  },
+  {
+    "id": "b9085267-a47c-4f4f-ac33-0dd880f108fa",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:24:07.627488Z",
+    "donor_name": "Laura",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "d1ff6d72-0753-47eb-bd8c-88dd424a24d6",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:23:54.834714Z",
+    "donor_name": "manik wadehra",
+    "donor_comment": "I love this initiative",
+    "currency": "USD"
+  },
+  {
+    "id": "bdac2790-e8aa-452e-91d8-150bfa1c0ec8",
+    "amount": 7.0,
+    "completed_at": "2025-08-03T00:23:52.317294Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "ba18c377-1665-4bca-8459-e48ab19f90b3",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:23:50.174868Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "55334e4f-2fb9-4b0c-adde-3556c0f6d8d5",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:23:47.492161Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "John 4:14  \"But whoever drinks the water I give them will never thirst.",
+    "currency": "USD"
+  },
+  {
+    "id": "1106ac51-5987-4b7f-88eb-35c44abb854f",
+    "amount": 25.0,
+    "completed_at": "2025-08-03T00:23:43.094106Z",
+    "donor_name": "Dominic G.",
+    "donor_comment": "Clean water for all!",
+    "currency": "USD"
+  },
+  {
+    "id": "fc878d6b-0fc8-419b-9f85-e4e84bd57af6",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:23:42.867011Z",
+    "donor_name": "Kearny Jackson",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "0e9a259c-e068-4eb7-bf9a-c7c6f7526174",
+    "amount": 2.5,
+    "completed_at": "2025-08-03T00:23:32.538827Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "\ud83d\udc4d",
+    "currency": "USD"
+  },
+  {
+    "id": "a85c19df-01f4-4a03-bbcf-8d5de1e8e077",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:23:29.167844Z",
+    "donor_name": "Jasper",
+    "donor_comment": "Water is a human right, please be sure to stay hydrated when you can \u2764\ufe0f",
+    "currency": "USD"
+  },
+  {
+    "id": "5c5cea4a-61e7-4e1b-b478-280b85ca3dc4",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:23:25.861675Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "6c467a93-8af3-457e-8361-d2538c4aa13a",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:23:04.498403Z",
+    "donor_name": "Linjon117",
+    "donor_comment": "God bless the world \ud83e\ude77",
+    "currency": "USD"
+  },
+  {
+    "id": "8a9db9cc-c2b5-42f0-b681-04e43cc4ebcf",
+    "amount": 30.0,
+    "completed_at": "2025-08-03T00:23:01.379375Z",
+    "donor_name": "Sparrow76",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "0e9b100b-dfe7-4127-b841-58302f4d3aaf",
+    "amount": 100.0,
+    "completed_at": "2025-08-03T00:22:53.282979Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "a891fda3-5664-4c05-908f-6b2a771bd9e5",
+    "amount": 25.0,
+    "completed_at": "2025-08-03T00:22:30.197358Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "408ce408-e3ee-4135-a2d2-71461266edab",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:22:07.541414Z",
+    "donor_name": "rokoppo",
+    "donor_comment": "team water 4 life",
+    "currency": "USD"
+  },
+  {
+    "id": "bfaab3e7-003b-4caa-a084-da27efbbdab1",
+    "amount": 100.0,
+    "completed_at": "2025-08-03T00:21:34.995304Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "74807d0a-2ca7-4957-a0f8-32febe2ca32e",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:21:23.637331Z",
+    "donor_name": "Serban Gabriel Stanescu",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "e537330d-2d5c-4d96-9e64-d80684c53131",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:21:21.925878Z",
+    "donor_name": "Kelvin & Maximiliano Rivera",
+    "donor_comment": "For The Babies",
+    "currency": "USD"
+  },
+  {
+    "id": "cacfb429-6335-45ba-b222-e06e346f0ed1",
+    "amount": 50.0,
+    "completed_at": "2025-08-03T00:21:17.858248Z",
+    "donor_name": "Waveyywrld",
+    "donor_comment": "Salute",
+    "currency": "USD"
+  },
+  {
+    "id": "857d91bf-ecd6-467c-94b1-3fb710ba53fc",
+    "amount": 7.0,
+    "completed_at": "2025-08-03T00:21:15.038721Z",
+    "donor_name": "Michael Malton",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "47c6a749-212a-4dfc-9182-fd0da0b7615c",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:21:09.172523Z",
+    "donor_name": "Isobel Frew",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "ffcd7960-f3d6-4bcd-8fe2-56ac9ca7bfb8",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:21:05.416628Z",
+    "donor_name": "Justin",
+    "donor_comment": "Love.",
+    "currency": "USD"
+  },
+  {
+    "id": "d073a442-c0a1-4edb-ac12-f0aed4c1f266",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:20:45.033745Z",
+    "donor_name": "Gudelia Segura",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "d2b5d58e-eafa-40e3-bcc0-fac27f466ffa",
+    "amount": 100.0,
+    "completed_at": "2025-08-03T00:20:31.414219Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "7f53ecf7-be40-4b83-b840-d397bf9b9214",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:20:25.436055Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "1fbd115d-566f-4d26-ae59-5d7ea7259cfe",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:20:23.578638Z",
+    "donor_name": "Shania",
+    "donor_comment": "<3",
+    "currency": "USD"
+  },
+  {
+    "id": "a0eb3234-9804-4c55-9eea-b0318f2f037a",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:20:21.347429Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "49a00306-ada9-4202-a98d-05cf09e44214",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:20:12.286665Z",
+    "donor_name": "Samuel Daiber",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "5ede3831-bd4a-4982-a7fb-0e99c92ec877",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:20:07.173147Z",
+    "donor_name": "Pivijay",
+    "donor_comment": "Lo lograremos",
+    "currency": "USD"
+  },
+  {
+    "id": "ff7c5132-b317-4c1f-95ea-ed15df17ac23",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:20:05.944415Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "76a0d86d-5776-46cb-864f-366cab4a6662",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:19:43.130312Z",
+    "donor_name": "EdiJonh",
+    "donor_comment": "TeamWather",
+    "currency": "USD"
+  },
+  {
+    "id": "63b8b150-c355-4722-b681-ca386550919f",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:19:32.725545Z",
+    "donor_name": "Mateus Gaspari",
+    "donor_comment": "opa b\u00e3o",
+    "currency": "USD"
+  },
+  {
+    "id": "6979d082-2c81-4293-a1be-d1891da95000",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:19:32.549226Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "b9b9fca6-ef2e-4f96-9d67-9313fdd2d8a2",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:19:29.487537Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "7fc7c47d-1599-4dce-945a-846c653c89da",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:19:28.877272Z",
+    "donor_name": "Ingo",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "4b968768-a193-4aa7-be60-8c67d8d05dc2",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:19:21.661313Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "592f9ad4-bae2-4ff1-9a03-a803113a7eb4",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:18:52.785085Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "3074cda3-f527-4428-b2f4-0c331f41b70e",
+    "amount": 7.0,
+    "completed_at": "2025-08-03T00:18:07.199934Z",
+    "donor_name": "Kai",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "1bb54840-564f-4453-8db0-58c077572f41",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:18:04.296236Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "e0464b9a-9e3c-4b34-b746-65901cc7922a",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:17:46.834057Z",
+    "donor_name": "Tigre",
+    "donor_comment": "If you\u2019re reading this, God Loves You",
+    "currency": "USD"
+  },
+  {
+    "id": "a2e498b5-dc6d-4c07-84d8-84b322c54caf",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:17:43.178202Z",
+    "donor_name": "A&E",
+    "donor_comment": "<(^_^) >",
+    "currency": "USD"
+  },
+  {
+    "id": "cadb0956-3b06-408f-a7af-8f76b3a394a7",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:17:41.344859Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "7a998df4-888f-4390-9740-6c8c619b5f31",
+    "amount": 50.0,
+    "completed_at": "2025-08-03T00:17:31.718645Z",
+    "donor_name": "Worz Family",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "86df05e6-fa6c-4fac-b8e2-c8c9e4a41cae",
+    "amount": 50.0,
+    "completed_at": "2025-08-03T00:17:25.996359Z",
+    "donor_name": "Elisia",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "ad249279-b221-4e1e-b067-26bacff11a27",
+    "amount": 2.0,
+    "completed_at": "2025-08-03T00:17:10.868670Z",
+    "donor_name": "Island Girl",
+    "donor_comment": "Love what you do to help all those in need. God bless",
+    "currency": "USD"
+  },
+  {
+    "id": "1d1bc300-b239-4b0b-9c4a-896af730dc1f",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:17:08.761716Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "45a5b3da-a6c6-4865-b98c-77cfbfa8575d",
+    "amount": 25.0,
+    "completed_at": "2025-08-03T00:17:06.955772Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "36d52910-b57a-4f3a-82b5-7a5685a8aee6",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:16:43.297136Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "6336c172-4a9a-4b33-9754-4b7dece76604",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:16:37.053351Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "f072f4fd-9033-4317-b77b-883171ab82e5",
+    "amount": 4.0,
+    "completed_at": "2025-08-03T00:16:34.915012Z",
+    "donor_name": "Katie",
+    "donor_comment": "Let\u2019s goo!! Water drinkers rise up!!",
+    "currency": "USD"
+  },
+  {
+    "id": "46c19407-820d-4345-9475-5ff764e0cab4",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:16:31.157997Z",
+    "donor_name": "0rbex",
+    "donor_comment": "\u208a\u0f04",
+    "currency": "USD"
+  },
+  {
+    "id": "1c293a48-9f40-4651-b773-0676fd4d4a8c",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:16:26.830556Z",
+    "donor_name": "WOQZ",
+    "donor_comment": "help people is important",
+    "currency": "USD"
+  },
+  {
+    "id": "fd89cca9-8acc-484c-998e-6cda9fa46f2d",
+    "amount": 2.0,
+    "completed_at": "2025-08-03T00:16:23.311751Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "62bba8f2-b2ad-46b4-9048-042195a24fa0",
+    "amount": 4.0,
+    "completed_at": "2025-08-03T00:16:22.809799Z",
+    "donor_name": "AC",
+    "donor_comment": "If only the people in charge cared as much as y'all",
+    "currency": "USD"
+  },
+  {
+    "id": "067aa2bf-e989-48da-801d-f9f2ad1090d1",
+    "amount": 3.0,
+    "completed_at": "2025-08-03T00:16:01.100206Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "ef421157-93bb-40ae-a500-c2a3eeb198e4",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:15:59.220163Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "9f27ab6d-0d35-45b5-8984-10897ca1249c",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:15:54.791979Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "35535e3b-e931-4549-b3e0-1721172bd729",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:15:54.009901Z",
+    "donor_name": "Tyler Emberton",
+    "donor_comment": "Cheers to Clean Water \ud83d\udca6 \ud83d\udca7",
+    "currency": "USD"
+  },
+  {
+    "id": "c281d3aa-e936-4a0c-a02f-df3c59a02f9a",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:15:37.484253Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "You are doing a great work. Thank you!",
+    "currency": "USD"
+  },
+  {
+    "id": "e47eee81-470b-444a-a3aa-8bfc7a1d56bf",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:15:29.741267Z",
+    "donor_name": "Miguel",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "8d3256c3-aa26-4cd1-8154-36b67a21f89c",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:15:28.468852Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "8cb829b2-f3c4-43c0-865c-ce4ee5c81d55",
+    "amount": 50.0,
+    "completed_at": "2025-08-03T00:15:26.358917Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "6863ee6e-22e4-406c-bcf8-6aa6672549a8",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:15:21.883466Z",
+    "donor_name": "Bikash",
+    "donor_comment": "Loved the project! #teamwater",
+    "currency": "USD"
+  },
+  {
+    "id": "b0776e26-68d5-4bea-b9b9-577ffcdacd25",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:15:06.985256Z",
+    "donor_name": "Frankwon1",
+    "donor_comment": "So fresh and so clean",
+    "currency": "USD"
+  },
+  {
+    "id": "b5747140-f3e1-4527-b9d1-9d5e0dab16a7",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:14:58.035246Z",
+    "donor_name": "Wunna",
+    "donor_comment": "Death to queers",
+    "currency": "USD"
+  },
+  {
+    "id": "171a1f2b-97f5-4bcf-ab05-67ecf2eaf75f",
+    "amount": 50.0,
+    "completed_at": "2025-08-03T00:14:44.313916Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "It's the new Live Aid. Congrats!",
+    "currency": "USD"
+  },
+  {
+    "id": "8f4b86f5-241e-4a5b-a47f-a6b0daecaf3c",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:14:42.454167Z",
+    "donor_name": "Rx5a",
+    "donor_comment": "It\u2019s the least I can do",
+    "currency": "USD"
+  },
+  {
+    "id": "b0f23f56-51f5-4943-9205-42b80e2e5db1",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:14:30.988331Z",
+    "donor_name": "Jagadeesh Rajendran",
+    "donor_comment": "Happy to be a small part of this campaign. \u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "currency": "USD"
+  },
+  {
+    "id": "27af711c-2812-465f-9ff7-3d0e4b79a23e",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:14:20.815119Z",
+    "donor_name": "brandon_424",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "5ba70585-574d-4ddd-bf53-b8e9d2135df4",
+    "amount": 50.0,
+    "completed_at": "2025-08-03T00:14:06.369240Z",
+    "donor_name": "RadDocDad",
+    "donor_comment": "Clean water for all? Sounds like a good idea to me!!",
+    "currency": "USD"
+  },
+  {
+    "id": "128177bc-469e-4d0c-bf00-e815ded998eb",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:13:52.559544Z",
+    "donor_name": "Kenneth Rose",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "d3698827-6920-4c87-9811-3465aa3e45b1",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:13:42.585427Z",
+    "donor_name": "Mathis Bruder",
+    "donor_comment": "We love water",
+    "currency": "USD"
+  },
+  {
+    "id": "91ac7251-d947-4634-8681-e649d2cd0222",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:13:28.754891Z",
+    "donor_name": "dh7",
+    "donor_comment": "forza depor",
+    "currency": "USD"
+  },
+  {
+    "id": "c80f3b89-010a-4738-a0c1-78eb2c4d85bb",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:13:11.365764Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "fb4936e6-a008-4ad6-b581-5999023cb833",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:12:45.745066Z",
+    "donor_name": "Marc Joseph",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "aaa61d93-8942-4b40-b595-4791c1b586d6",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:12:43.102541Z",
+    "donor_name": "Kaliyah",
+    "donor_comment": "Everyone should have clean water\ud83d\udc97\ud83c\udf0e",
+    "currency": "USD"
+  },
+  {
+    "id": "359fc488-8689-4102-8315-e39cdc6c452f",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:12:42.088045Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "ea116552-d629-4cf7-b1b7-44b1bde578e1",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:12:38.853084Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "48cf4cd0-9ea2-498a-8a84-252aa3acd0ee",
+    "amount": 2.0,
+    "completed_at": "2025-08-03T00:12:33.254658Z",
+    "donor_name": "Kax4737",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "178bca19-c622-41a4-a167-a0f7948fb60c",
+    "amount": 30.0,
+    "completed_at": "2025-08-03T00:12:32.993150Z",
+    "donor_name": "Jemima Biddinger",
+    "donor_comment": "The best use of money. Thank you!!\ud83d\ude4f\ud83c\udffb",
+    "currency": "USD"
+  },
+  {
+    "id": "59a1839c-c97d-4e5a-adf8-17873f011e64",
+    "amount": 33.33,
+    "completed_at": "2025-08-03T00:12:32.875336Z",
+    "donor_name": "Dean",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "9d0ba0a5-2db4-4ebd-b97d-2c3dfa3b0c79",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:12:28.567601Z",
+    "donor_name": "Alexander",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "cbea11b9-daff-490a-b652-6a8b3477cc6d",
+    "amount": 25.0,
+    "completed_at": "2025-08-03T00:12:16.011801Z",
+    "donor_name": "Sean",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "bdd316dc-3cd5-4af7-920a-37fa81acb40f",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:12:03.005606Z",
+    "donor_name": "Mery",
+    "donor_comment": "Desde Galicia, Espa\u00f1a, quiero donar para que personas que lo necesitan tengan agua.",
+    "currency": "USD"
+  },
+  {
+    "id": "1ea12b06-5e45-44be-a358-90286e90fd93",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:12:02.085978Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "e3089f86-dc42-4756-b86b-cdb28af102d1",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:11:50.136287Z",
+    "donor_name": "Arczi",
+    "donor_comment": "Macie <3",
+    "currency": "USD"
+  },
+  {
+    "id": "0b25419c-8156-483b-85da-4100465e0663",
+    "amount": 2.0,
+    "completed_at": "2025-08-03T00:11:47.263830Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "d9a99be6-5f19-44ed-8ec6-0e6f7a629c71",
+    "amount": 300.0,
+    "completed_at": "2025-08-03T00:11:46.194443Z",
+    "donor_name": "Jessica",
+    "donor_comment": "Wir sind alle gleich, wir sind alle durstig, also sollten wir auch f\u00fcr alle, alles geben. Denn das w\u00fcnscht man sich doch insgeheim",
+    "currency": "USD"
+  },
+  {
+    "id": "71958c51-3295-46b9-90cc-634e012e0920",
+    "amount": 3.33,
+    "completed_at": "2025-08-03T00:11:32.707430Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "Yup",
+    "currency": "USD"
+  },
+  {
+    "id": "9138a60d-1e59-4f50-bf4a-6e4f3aad0385",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:11:30.852998Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "Help the World!",
+    "currency": "USD"
+  },
+  {
+    "id": "22c20087-5971-4d51-af7f-d76fb9bae634",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:11:22.005059Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "f6eba569-e0f2-4c69-b4b0-d43befcc9023",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:11:15.354630Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "Free Palestine!!!",
+    "currency": "USD"
+  },
+  {
+    "id": "71799eb0-a2ef-4ece-9cd6-ddab0534ae70",
+    "amount": 7.85,
+    "completed_at": "2025-08-03T00:11:14.157244Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "8eb4fdee-e035-4f29-b4cd-33486452f333",
+    "amount": 100.0,
+    "completed_at": "2025-08-03T00:11:05.366593Z",
+    "donor_name": "George Dukes",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "660ca8bb-dd50-4f6b-90c3-ccbbb0955497",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:11:00.234453Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "8ea3dc1d-c1e9-4586-bf2a-ffd37f54b5f9",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:10:41.526314Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "1dbc9e91-97c4-4069-9fe0-1149f493a2de",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:10:41.349099Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "2038189370",
+    "currency": "USD"
+  },
+  {
+    "id": "c5725a2d-9554-4b6e-b4bb-61e26038215c",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:10:40.966856Z",
+    "donor_name": "Ceyhan \u0130meri",
+    "donor_comment": "From my heart to your hands, a drop of water, a stream of hope\u2764\ufe0f",
+    "currency": "USD"
+  },
+  {
+    "id": "eb2176b6-131e-445c-90bf-10e17e32b1f2",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:10:29.287688Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "458766fb-5638-4fa5-a38e-bf1e8f730852",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:10:28.739440Z",
+    "donor_name": "Connor Huthnance",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "c8b5bd2c-c010-44b5-b1aa-ed98e827a424",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:10:26.580222Z",
+    "donor_name": "Emanuel Ariza",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "a9a9d87f-1962-4771-8aca-82441cd8c0ca",
+    "amount": 100.0,
+    "completed_at": "2025-08-03T00:10:19.402774Z",
+    "donor_name": "Adriana",
+    "donor_comment": "Gracias por lo que haces que labor tan admirable y aunque no estoy tan cerca para ayudar espero sigas con tu proyecto",
+    "currency": "USD"
+  },
+  {
+    "id": "d2555a83-b7bc-4c42-bbfd-f519b52d5b1d",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:10:03.772348Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "Keep the good work going:)",
+    "currency": "USD"
+  },
+  {
+    "id": "1b9b3306-94ba-408d-bea4-64a33aa1cb9e",
+    "amount": 2.0,
+    "completed_at": "2025-08-03T00:10:00.881452Z",
+    "donor_name": "Muslim",
+    "donor_comment": "Keep going we\u2019re with you",
+    "currency": "USD"
+  },
+  {
+    "id": "bccea35b-156a-4819-b621-2cbba0937cef",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:09:39.728851Z",
+    "donor_name": "The DiamondTree",
+    "donor_comment": "We got dis fam!",
+    "currency": "USD"
+  },
+  {
+    "id": "2ade68b1-06c4-42bc-8265-1d145564a616",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:09:31.062586Z",
+    "donor_name": "mytron4000",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "948bdfe7-e7a7-4ba0-9af8-d532cb7a1c6d",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:09:19.933080Z",
+    "donor_name": "Dan Flowers",
+    "donor_comment": "Good luck",
+    "currency": "USD"
+  },
+  {
+    "id": "c37ec048-43b0-4402-a52f-35ec0bec487a",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:09:00.147340Z",
+    "donor_name": "Danel",
+    "donor_comment": "<3",
+    "currency": "USD"
+  },
+  {
+    "id": "71a24a41-488c-489b-804b-55a9f5c4e9dc",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:08:59.457264Z",
+    "donor_name": "Cooper Luc",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "121d8a2d-f602-4c00-8cdd-85ca98eb48e2",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:08:54.331158Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "e1a81fc8-efdb-4b99-ae7a-404755a73a68",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:08:36.325939Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "f3924ce9-e637-4a9c-8df9-eb944120976f",
+    "amount": 50.0,
+    "completed_at": "2025-08-03T00:08:32.268786Z",
+    "donor_name": "Mariana",
+    "donor_comment": "Ojal\u00e1 juntemos mucho! Gracias por estos proyectos para los ni\u00f1os y las ni\u00f1as",
+    "currency": "USD"
+  },
+  {
+    "id": "4cd792c3-378c-4ff6-9cee-1159c5d24c45",
+    "amount": 30.0,
+    "completed_at": "2025-08-03T00:08:27.037280Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "Please donate anything u have anything helps thank god for everything make an impact \ud83d\ude4f",
+    "currency": "USD"
+  },
+  {
+    "id": "a5c854a1-255d-4005-a29b-c7e060ca2975",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:08:22.751178Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "36a0cd11-9bd5-435d-9814-c791510cb988",
+    "amount": 10.07,
+    "completed_at": "2025-08-03T00:08:22.440337Z",
+    "donor_name": "Deception",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "8921fcd0-c776-4067-85af-c427827ca1fe",
+    "amount": 10.16,
+    "completed_at": "2025-08-03T00:08:22.267459Z",
+    "donor_name": "Truong",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "129dd92c-e9f2-4adc-a199-bd18cfe473ce",
+    "amount": 10.02,
+    "completed_at": "2025-08-03T00:08:22.133662Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "\u200e",
+    "currency": "USD"
+  },
+  {
+    "id": "24368f84-6655-4ed2-86b5-e3300c747355",
+    "amount": 500.0,
+    "completed_at": "2025-08-03T00:08:20.148383Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "af2e4e07-66f4-4695-8629-adb01c036b64",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:08:13.763845Z",
+    "donor_name": "Vagfalvi  Family",
+    "donor_comment": "Super fans from Sweden (me and my kids) I wish I could send more <3",
+    "currency": "USD"
+  },
+  {
+    "id": "ab1ddbe3-8f89-40dc-8984-b57d01085b2b",
+    "amount": 50.0,
+    "completed_at": "2025-08-03T00:08:12.562816Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "b8d6acbe-413f-4320-951d-46de8bf1da70",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:08:06.017787Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "9df72b69-b9c4-4e0f-bfae-6498bc4f3f0e",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:08:04.223350Z",
+    "donor_name": "Noah Settles",
+    "donor_comment": "i\u2019ve been watching your videos since i was a kid ik it\u2019s not a lot but i hope it helps\ud83d\ude01",
+    "currency": "USD"
+  },
+  {
+    "id": "489235ab-313d-40b8-bf5b-4d59abf568b1",
+    "amount": 200.0,
+    "completed_at": "2025-08-03T00:07:59.107454Z",
+    "donor_name": "Finlay",
+    "donor_comment": "Sub to mrbeast",
+    "currency": "USD"
+  },
+  {
+    "id": "4840afe8-c53e-444c-9cc5-13c301d7dccb",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:07:56.638905Z",
+    "donor_name": "Rafael Mart\u00ednez",
+    "donor_comment": "Good luck guys, everything counts for good causes",
+    "currency": "USD"
+  },
+  {
+    "id": "4c1d6ef0-cb4b-430d-995d-71c775082da0",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:07:47.983760Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "be139df4-5f54-472d-a6c7-dd9df89b0cff",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:07:33.606474Z",
+    "donor_name": "Joserra",
+    "donor_comment": "Water!!",
+    "currency": "USD"
+  },
+  {
+    "id": "757dc555-d9a7-47e1-8ac0-92eb592ffd14",
+    "amount": 52.02,
+    "completed_at": "2025-08-03T00:07:23.048865Z",
+    "donor_name": "BoltenBeeper",
+    "donor_comment": "Every donation helps bring some balance to the negative impacts of this year.",
+    "currency": "USD"
+  },
+  {
+    "id": "ffaa6518-ed77-450a-b382-d4250a3266bc",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:07:12.641130Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "362b3ee5-d863-46e2-b28a-25480f23a668",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:07:10.184836Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "\u2764\ufe0f",
+    "currency": "USD"
+  },
+  {
+    "id": "bfa1a273-6a42-4ecc-ac24-6a569f9b4d93",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:07:00.937357Z",
+    "donor_name": "Arthur",
+    "donor_comment": "Don't have much but hope this helps",
+    "currency": "USD"
+  },
+  {
+    "id": "9c21041f-1bd1-49fd-be9a-64e390c58e9f",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:06:43.784549Z",
+    "donor_name": "sarah eshal ayesha ali maryam & my family",
+    "donor_comment": "make dua for all of us",
+    "currency": "USD"
+  },
+  {
+    "id": "3538e79f-82f0-4ff5-8699-d1340ba4c44a",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:06:31.403187Z",
+    "donor_name": "Fred Silva",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "94988c3e-87dc-4ae0-ad5b-b0ce6b940f04",
+    "amount": 30.0,
+    "completed_at": "2025-08-03T00:06:30.934192Z",
+    "donor_name": "Kayde Rogan",
+    "donor_comment": "Mark Rober is the best",
+    "currency": "USD"
+  },
+  {
+    "id": "64f7f513-c821-4b57-8cf3-52de2ad9b16e",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:06:16.484272Z",
+    "donor_name": "Yousgha morocco",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "dae9f63c-1104-4d86-94d6-637d01975390",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:06:14.439631Z",
+    "donor_name": "Gerardo Gonzalez",
+    "donor_comment": "#TEAMWATER",
+    "currency": "USD"
+  },
+  {
+    "id": "ba90af39-fa0a-4370-9ce4-8f737ec7a6d5",
+    "amount": 25.0,
+    "completed_at": "2025-08-03T00:06:13.811256Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "8e008fa3-af1a-4e9f-90b8-d679ff8a295c",
+    "amount": 100.0,
+    "completed_at": "2025-08-03T00:06:10.981736Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "Issue is plsn to keeping them working... many fail shortly after.",
+    "currency": "USD"
+  },
+  {
+    "id": "774bd354-5744-45db-b3d7-c3b64d566145",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:06:06.987108Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "ec8e8fd5-12c4-417a-82e4-0e7aa80d79db",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:06:04.376804Z",
+    "donor_name": "Michaelmd",
+    "donor_comment": "PEOPLE ALL AROUND THE WORLD DESERVE WATER",
+    "currency": "USD"
+  },
+  {
+    "id": "8eef11ef-c2d4-4e0e-b8cd-b223775291e2",
+    "amount": 30.0,
+    "completed_at": "2025-08-03T00:05:53.650726Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "ca863257-0158-4882-a8cd-2eff51a9b8eb",
+    "amount": 100.0,
+    "completed_at": "2025-08-03T00:05:49.939491Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "0ae52c04-eade-42b4-ac1f-0e4bc3b45b51",
+    "amount": 1.11,
+    "completed_at": "2025-08-03T00:05:46.795806Z",
+    "donor_name": "Ivan Russell",
+    "donor_comment": "Mr beast has been helping so many people, and creating entertain videos I know this is only 1$ but its all :( Love from Gibraltar \ud83c\uddec\ud83c\uddee Thanks Jimmy",
+    "currency": "USD"
+  },
+  {
+    "id": "05c7a920-0707-4397-86b3-e96ba944a7d0",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:05:44.975030Z",
+    "donor_name": "Trey",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "95c71d04-f788-4824-89f3-1ec88e434921",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:05:38.570745Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "e8821577-17fd-4d11-8bf4-280881255834",
+    "amount": 2.0,
+    "completed_at": "2025-08-03T00:05:31.191974Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "4fc2ebce-5373-4be4-9eaf-e7b55540a47c",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:05:31.150565Z",
+    "donor_name": "Berenice Pastor",
+    "donor_comment": "Alexis Omman I am your fan",
+    "currency": "USD"
+  },
+  {
+    "id": "21fcfaa2-c754-4f40-98f0-a238c65511d8",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:05:27.788129Z",
+    "donor_name": "cole miley",
+    "donor_comment": "this some real sh1t twin",
+    "currency": "USD"
+  },
+  {
+    "id": "3dae7acd-5ace-4110-8324-3a6bda203787",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:05:19.531430Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "9088c8e7-3fe2-4b4e-a885-f82c5c249b3e",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:05:15.493120Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "27a4dd4d-0120-40f5-805e-dee57f99169e",
+    "amount": 100.0,
+    "completed_at": "2025-08-03T00:04:53.725224Z",
+    "donor_name": "Rossmac",
+    "donor_comment": "Hi Team!  Great work! I hope to work with you in the near future to provide clean drinking water to indigenous communities in southeast India. I alone",
+    "currency": "USD"
+  },
+  {
+    "id": "13872e6a-857f-4a5c-b847-15aa1bfb3619",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:04:52.128234Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "9e24c79a-fe0f-416b-9320-0a90b3984c44",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:04:46.723789Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "1038d079-d067-436f-9a4d-813a0b66d9e0",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:04:46.202763Z",
+    "donor_name": "Vik",
+    "donor_comment": "I love water \ud83d\udca6",
+    "currency": "USD"
+  },
+  {
+    "id": "cfd50905-bbec-40f6-9443-9a9d38f8d247",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:04:36.953727Z",
+    "donor_name": "Nada",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "7641bed6-402a-443d-912e-be868abf3d45",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:04:23.225119Z",
+    "donor_name": "Christos",
+    "donor_comment": "Love your work guys",
+    "currency": "USD"
+  },
+  {
+    "id": "6fb9503d-de22-4a11-a0ac-003ff870246b",
+    "amount": 1.11,
+    "completed_at": "2025-08-03T00:04:19.521912Z",
+    "donor_name": "Ivan Russell",
+    "donor_comment": "Mr beast has been helping so many people, and creating entertain videos I know this is only 1$ but its all :( Love from Gibraltar \ud83c\uddec\ud83c\uddee Thanks Jimmy",
+    "currency": "USD"
+  },
+  {
+    "id": "cc17aac1-d184-4f21-9193-a10e1af39d5c",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:04:11.537180Z",
+    "donor_name": "Meena",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "0abbc64a-534b-4051-b533-a24ebe673a6e",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:04:10.654423Z",
+    "donor_name": "Kesha K",
+    "donor_comment": "Don\u2019t spend it all at one place",
+    "currency": "USD"
+  },
+  {
+    "id": "c32592f6-2a93-41b4-9f85-7db18b2ea5b1",
+    "amount": 100.0,
+    "completed_at": "2025-08-03T00:04:10.403347Z",
+    "donor_name": "YSN (MB)",
+    "donor_comment": "Heyy , smallest thing i can do.",
+    "currency": "USD"
+  },
+  {
+    "id": "6b475bf3-107a-4d14-a123-90509cbb31dc",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:04:06.108880Z",
+    "donor_name": "Katelyn",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "789218d5-940d-4ff8-82dc-6f14b82b7700",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:04:04.416794Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "90096982-9539-4c37-8acd-7e3ef5a66f4a",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:04:02.708369Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "94ff00d3-064e-4a17-9d21-c6d8e9e14d92",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:03:59.124687Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "5e0e4385-f545-4fb1-9d26-9c1dcf835835",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:03:48.817584Z",
+    "donor_name": "\u00d6mer",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "bf427b3a-c0f7-414e-a4ad-a0921436e10c",
+    "amount": 30.0,
+    "completed_at": "2025-08-03T00:03:30.910703Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "a31783b7-2db4-405f-baeb-b7ea31684612",
+    "amount": 35.0,
+    "completed_at": "2025-08-03T00:03:17.177761Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "49a22bd4-6418-404f-8b22-e9e035c35f41",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:03:14.775870Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "Thank you guys!",
+    "currency": "USD"
+  },
+  {
+    "id": "36b36f72-3eaa-4bbe-8389-ee7de9c403a4",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:03:12.776787Z",
+    "donor_name": "Osman Baydar",
+    "donor_comment": "Thanks",
+    "currency": "USD"
+  },
+  {
+    "id": "00a17bbe-9b4c-4709-965e-15e4e9994d71",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:03:08.312956Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "a6ae0d1a-0589-4f55-b97f-7c03f84b5513",
+    "amount": 3.03,
+    "completed_at": "2025-08-03T00:03:07.474525Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "8c77c3bb-13fe-4f34-8238-e8eea81ed09d",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:02:53.266814Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "f066252a-3442-4c7e-b234-0fdc6eba2e62",
+    "amount": 20.0,
+    "completed_at": "2025-08-03T00:02:50.192563Z",
+    "donor_name": "Colleen Lonergan",
+    "donor_comment": "Happy Birthday",
+    "currency": "USD"
+  },
+  {
+    "id": "52a67b23-98ec-4f2c-bebb-8230cb2be0b2",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:02:46.360042Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "4767e009-6947-45b4-a17b-4c19e5c22a3d",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:02:40.729817Z",
+    "donor_name": "Jaxon",
+    "donor_comment": "WATER\ud83d\udca7\ud83c\udf0a\ud83c\udf0a\ud83d\udca6\ud83d\udca6",
+    "currency": "USD"
+  },
+  {
+    "id": "da8161b7-769f-4a19-acfc-d047a9ec4239",
+    "amount": 25.0,
+    "completed_at": "2025-08-03T00:02:16.583314Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "God bless",
+    "currency": "USD"
+  },
+  {
+    "id": "d55d72c1-eca8-4e88-8b1d-c064d7feb666",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:02:16.124480Z",
+    "donor_name": "Ananta",
+    "donor_comment": "Cool Project :)",
+    "currency": "USD"
+  },
+  {
+    "id": "2009d512-855f-474f-90a1-010ba4f30625",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:02:04.063024Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "a5450fe0-f07a-4d6e-8052-841cf92fef36",
+    "amount": 2.0,
+    "completed_at": "2025-08-03T00:02:00.874812Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "341c6de3-d482-4b4c-a835-6239bfc6044e",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:01:51.892507Z",
+    "donor_name": "Fabio Bulacu",
+    "donor_comment": "Dai un po' di bene ogni tanto va fatto",
+    "currency": "USD"
+  },
+  {
+    "id": "d87d7887-6dc6-4a57-84a8-477d3b37b6d2",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:01:23.122182Z",
+    "donor_name": "SL",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "5bd18adf-9e44-41c6-a6ea-40364c75c56c",
+    "amount": 1.23,
+    "completed_at": "2025-08-03T00:00:54.945116Z",
+    "donor_name": "Howard  Riffle",
+    "donor_comment": "This is a great cause",
+    "currency": "USD"
+  },
+  {
+    "id": "67197edd-61de-4bbf-bdb4-fc59a4011456",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:00:52.615887Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "50e3685d-c278-4192-b66a-e3720fb9924a",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:00:36.293636Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "dda62be0-f4a2-41c3-9c2d-1ddb3e9898c8",
+    "amount": 5.0,
+    "completed_at": "2025-08-03T00:00:26.295203Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "May you're never thirsty ever again",
+    "currency": "USD"
+  },
+  {
+    "id": "b3e94feb-577e-44a9-8056-922f588ced0d",
+    "amount": 10.0,
+    "completed_at": "2025-08-03T00:00:08.155008Z",
+    "donor_name": "JesusLover",
+    "donor_comment": "God always provides\u203c\ufe0f",
+    "currency": "USD"
+  },
+  {
+    "id": "b565e7a5-eceb-4006-9711-2a4c2e727ffe",
+    "amount": 1.0,
+    "completed_at": "2025-08-03T00:00:06.114921Z",
+    "donor_name": "Leapon",
+    "donor_comment": "\u5c11\u3057\u3067\u3082\u591a\u304f\u306e\u4eba\u306b\u7dba\u9e97\u306a\u6c34\u3092",
+    "currency": "USD"
+  },
+  {
+    "id": "8bb91f4e-6b9b-46f0-a176-9fbcb04b9749",
+    "amount": 5.0,
+    "completed_at": "2025-08-02T23:59:57.545354Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "6575832f-29c7-43f6-b263-a6667f8122b6",
+    "amount": 9.0,
+    "completed_at": "2025-08-02T23:59:56.730413Z",
+    "donor_name": "Benson Pease",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "9c6201ce-25ae-44c0-801c-f45d23c53ee9",
+    "amount": 1.0,
+    "completed_at": "2025-08-02T23:59:54.147132Z",
+    "donor_name": "Slam",
+    "donor_comment": "#teamwater",
+    "currency": "USD"
+  },
+  {
+    "id": "dea3c8d7-fcb4-42b0-9e05-c3ace7babe9d",
+    "amount": 2.0,
+    "completed_at": "2025-08-02T23:59:51.116975Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "9155bc57-64c2-44f6-a706-4f6cc0cbc0fb",
+    "amount": 5.0,
+    "completed_at": "2025-08-02T23:59:41.175654Z",
+    "donor_name": "Jr",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "5dbc4db4-99ed-4c7b-889c-05e4b998f2d1",
+    "amount": 1.0,
+    "completed_at": "2025-08-02T23:59:35.403657Z",
+    "donor_name": "Hossam",
+    "donor_comment": "Everybody deserves clean water, W charity",
+    "currency": "USD"
+  },
+  {
+    "id": "28fd8f8a-9c7c-4ab1-8078-38519eabddf5",
+    "amount": 5.0,
+    "completed_at": "2025-08-02T23:59:31.058035Z",
+    "donor_name": "Daniel P",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "1f971138-7d7c-4e93-80d4-d5c27cb72182",
+    "amount": 1.0,
+    "completed_at": "2025-08-02T23:59:18.522748Z",
+    "donor_name": "Rudy",
+    "donor_comment": "\ud83d\ude0e",
+    "currency": "USD"
+  },
+  {
+    "id": "ee1ced26-632f-418e-b675-47fc6b69cccd",
+    "amount": 5.0,
+    "completed_at": "2025-08-02T23:59:15.883385Z",
+    "donor_name": "TheBest",
+    "donor_comment": "Gracias por el grand\u00edsimo trabajo que hac\u00e9is, suerte con todo.",
+    "currency": "USD"
+  },
+  {
+    "id": "6eef334d-17ff-4d96-a3d2-959f5f0e8fde",
+    "amount": 10.0,
+    "completed_at": "2025-08-02T23:58:55.272452Z",
+    "donor_name": "\uae40\uc2dc\ud638(\uc758\uc2dd\uc131\uc7a5:\ub9c8\uc911\ubb3c)",
+    "donor_comment": "Go together",
+    "currency": "USD"
+  },
+  {
+    "id": "a2c1bf08-d38a-437c-8c36-6534f1311efb",
+    "amount": 25.0,
+    "completed_at": "2025-08-02T23:58:49.101818Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "1d0d3fe9-dc1e-4ac5-bf40-f1d1fa147222",
+    "amount": 1.0,
+    "completed_at": "2025-08-02T23:58:40.169803Z",
+    "donor_name": "Shizen",
+    "donor_comment": ";)",
+    "currency": "USD"
+  },
+  {
+    "id": "50906191-9a26-4c09-8adc-dc25ed6c8061",
+    "amount": 10.0,
+    "completed_at": "2025-08-02T23:58:38.221526Z",
+    "donor_name": "Anuj",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "5de4a5b7-58c8-4838-945e-b389a071c297",
+    "amount": 5.0,
+    "completed_at": "2025-08-02T23:58:28.414788Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "51241148-4415-4aa2-bbf4-8cba7354260c",
+    "amount": 30.0,
+    "completed_at": "2025-08-02T23:58:07.903602Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "83e705b9-2c17-4062-b215-7e602e4d382b",
+    "amount": 20.0,
+    "completed_at": "2025-08-02T23:58:02.412760Z",
+    "donor_name": "SQ",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "fc19812e-3662-4ad8-bbe4-93608612758f",
+    "amount": 1.0,
+    "completed_at": "2025-08-02T23:57:58.909789Z",
+    "donor_name": "Hash",
+    "donor_comment": "Aguaaa",
+    "currency": "USD"
+  },
+  {
+    "id": "9ca13967-a7be-41dc-9b73-cdfba827e758",
+    "amount": 5.0,
+    "completed_at": "2025-08-02T23:57:15.298810Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "Good Luck",
+    "currency": "USD"
+  },
+  {
+    "id": "aca3954c-f43b-4cd4-b909-4335b9d1fda4",
+    "amount": 1.0,
+    "completed_at": "2025-08-02T23:56:46.293912Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "63f4f593-d064-4ef1-81b8-d6d1c250549a",
+    "amount": 10.0,
+    "completed_at": "2025-08-02T23:56:38.427246Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "ea09dc78-7f3c-4a13-a214-cd4c8c4f65db",
+    "amount": 10.0,
+    "completed_at": "2025-08-02T23:56:37.791855Z",
+    "donor_name": "lauche77",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "350eed9b-be43-421d-a961-cb95e835c6b4",
+    "amount": 25.0,
+    "completed_at": "2025-08-02T23:56:25.111887Z",
+    "donor_name": "Raul Mesa JR",
+    "donor_comment": "TEAM WATER",
+    "currency": "USD"
+  },
+  {
+    "id": "23d29866-8803-4aa1-a6e8-81f0d9dfa7b0",
+    "amount": 2.0,
+    "completed_at": "2025-08-02T23:56:19.557160Z",
+    "donor_name": "Daw Manukyan",
+    "donor_comment": "From Armenia",
+    "currency": "USD"
+  },
+  {
+    "id": "8994adf4-09b7-409e-9034-ae1d497be0eb",
+    "amount": 60.0,
+    "completed_at": "2025-08-02T23:56:07.847520Z",
+    "donor_name": "Anonymous",
+    "donor_comment": "Gracias por ayudar a conseguir algo que todos deber\u00edamos tener como es el agua potable, gracias.",
+    "currency": "USD"
+  },
+  {
+    "id": "19208da0-f394-4f6a-b957-6b9c52fb366b",
+    "amount": 100.0,
+    "completed_at": "2025-08-02T23:55:54.646288Z",
+    "donor_name": "Frank Alviani",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "acfcff7c-5424-4dd4-96cd-252ddc289c9b",
+    "amount": 20.0,
+    "completed_at": "2025-08-02T23:55:38.334634Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
+    "id": "682fcf5a-ef5c-482f-97c3-a3385c5b4eaf",
+    "amount": 10.0,
+    "completed_at": "2025-08-02T23:55:37.145958Z",
+    "donor_name": "Gabriel",
+    "donor_comment": "Latinos unidos",
+    "currency": "USD"
+  },
+  {
+    "id": "87c50a54-bb97-49ed-95e9-e81ca2d0e340",
+    "amount": 10.0,
+    "completed_at": "2025-08-02T23:55:21.830011Z",
+    "donor_name": "Anonymous",
+    "donor_comment": null,
+    "currency": "USD"
+  },
+  {
     "id": "3f740e95-1158-4e07-80a8-6b2b310d1656",
     "amount": 10.0,
     "completed_at": "2025-08-02T23:55:14.861714Z",
